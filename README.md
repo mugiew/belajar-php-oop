@@ -20,8 +20,8 @@ class Hero {
 }
 
 $hero1 = new Hero();
-$hero1->name = "Mugiew";
-echo $hero1->attack(); // Mugiew menyerang!
+$hero1->name = "Alucard";
+echo $hero1->attack(); // Alucard menyerang!
 ```
 
 ---
