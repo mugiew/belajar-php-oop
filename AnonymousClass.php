@@ -24,4 +24,5 @@ $helloWorld = new class('Mugiew') implements HelloWorld {
         unset($this->name);
     }
 };
+
 $helloWorld->sayHello();
